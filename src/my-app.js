@@ -103,13 +103,13 @@ class MyApp extends PolymerElement {
               <div main-title="">My App</div>
             </app-toolbar>
           </app-header>
-          <div class="dropdown">
+          
   
           <iron-pages selected="[[page]]" attr-for-selected="name" role="main">
             <my-view1 name="view1"></my-view1>
             <nba-teams name="view2"></nba-teams>
-            <my-custom-element name="view3"></my-custom-element>
-            <data-view name="view4"></data-view>
+            <arriving-flights name="view3"></arriving-flights>
+            <animals-wiki name="view4"></animals-wiki>
             <my-view404 name="view404"></my-view404>
           </iron-pages>
         </app-header-layout>
@@ -164,13 +164,13 @@ class MyApp extends PolymerElement {
         import('./my-view1.js');
         break;
       case 'view2':
-        import('./my-view2.js');
+        import('../dist/nba-teams.min.js');
         break;
       case 'view3':
-        import('./my-view3.js');
+        import('../dist/main.js');
         break;
       case 'view4':
-          import('../angular-clem/main.7f22119f1ea82b01b5bf.js');
+          import('../animals-wiki/main.fcdc04ae7ae1459fd60e.js');
           break;
       case 'view404':
         import('./my-view404.js');

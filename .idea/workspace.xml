@@ -1,7 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0b8422dd-a29f-43dc-82aa-8f4907d12e96" name="Default Changelist" comment="" />
+    <list default="true" id="0b8422dd-a29f-43dc-82aa-8f4907d12e96" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/animals-wiki/main.fcdc04ae7ae1459fd60e.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/angular2-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/angularjs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/polymer-case-study.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/polymer-main-app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-clem/3rdpartylicenses.txt" beforeDir="false" afterPath="$PROJECT_DIR$/animals-wiki/3rdpartylicenses.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-clem/assets/ant.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/animals-wiki/assets/ant.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-clem/assets/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-clem/assets/cat.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/animals-wiki/assets/cat.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-clem/assets/cow.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/animals-wiki/assets/cow.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-clem/assets/crocodile.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/animals-wiki/assets/crocodile.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-clem/assets/dog.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/animals-wiki/assets/dog.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-clem/assets/eagle.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/animals-wiki/assets/eagle.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-clem/assets/fauna.json" beforeDir="false" afterPath="$PROJECT_DIR$/animals-wiki/assets/fauna.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-clem/assets/flea.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/animals-wiki/assets/flea.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-clem/assets/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-clem/assets/palmier.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-clem/assets/pig.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/animals-wiki/assets/pig.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-clem/assets/popper.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-clem/assets/tiger.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/animals-wiki/assets/tiger.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-clem/assets/turtle.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/animals-wiki/assets/turtle.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-clem/es2015-polyfills.c5dd28b362270c767b34.js" beforeDir="false" afterPath="$PROJECT_DIR$/animals-wiki/es2015-polyfills.c5dd28b362270c767b34.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-clem/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/animals-wiki/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-clem/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/animals-wiki/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-clem/main.7f22119f1ea82b01b5bf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-clem/polyfills.8bbb231b43165d65d357.js" beforeDir="false" afterPath="$PROJECT_DIR$/animals-wiki/polyfills.8bbb231b43165d65d357.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-clem/runtime.26209474bfa8dc87a77c.js" beforeDir="false" afterPath="$PROJECT_DIR$/animals-wiki/runtime.26209474bfa8dc87a77c.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-clem/scripts.69c39fe5fecacc5138f1.js" beforeDir="false" afterPath="$PROJECT_DIR$/animals-wiki/scripts.69c39fe5fecacc5138f1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-clem/styles.dbcd6fbe403fe1c0bb7e.css" beforeDir="false" afterPath="$PROJECT_DIR$/animals-wiki/styles.dbcd6fbe403fe1c0bb7e.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/img/logo.82b9c7a5.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/logo.82b9c7a5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/my-custom-element.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/img/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/my-app.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/my-app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/my-view2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/my-view3.js" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,40 +52,43 @@
     <session id="-670599807">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
-          <entry key="project.open.time.1" value="3" />
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.1" value="4" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="css" value="3" />
-          <entry key="html" value="2" />
-          <entry key="js" value="9" />
+          <entry key="html" value="3" />
+          <entry key="ico" value="1" />
+          <entry key="js" value="12" />
           <entry key="json" value="5" />
+          <entry key="png" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CSS" value="3" />
-          <entry key="HTML" value="2" />
+          <entry key="HTML" value="3" />
+          <entry key="Image" value="3" />
           <entry key="JSON" value="5" />
-          <entry key="JavaScript" value="9" />
+          <entry key="JavaScript" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="175" />
-          <entry key="js" value="613" />
+          <entry key="html" value="194" />
+          <entry key="js" value="639" />
           <entry key="json" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="229" />
+          <entry key="HTML" value="248" />
           <entry key="JSON" value="15" />
-          <entry key="JavaScript" value="559" />
+          <entry key="JavaScript" value="585" />
         </counts>
       </usages-collector>
     </session>
@@ -55,7 +98,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/shared-styles.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
+            <state>
               <caret line="12" column="56" selection-start-line="12" selection-start-column="56" selection-end-line="12" selection-end-column="56" />
             </state>
           </provider>
@@ -64,8 +107,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1260">
-              <caret line="84" column="148" selection-start-line="84" selection-end-line="85" />
+            <state relative-caret-position="358">
+              <caret line="92" column="30" selection-start-line="92" selection-start-column="30" selection-end-line="92" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -73,11 +116,20 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/my-app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="563">
-              <caret line="69" column="28" lean-forward="true" selection-start-line="69" selection-start-column="28" selection-end-line="69" selection-end-column="28" />
+            <state relative-caret-position="272">
+              <caret line="172" column="62" selection-start-line="172" selection-start-column="62" selection-end-line="172" selection-end-column="62" />
               <folding>
                 <element signature="e#534#609#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/my-icons.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" column="28" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -125,11 +177,18 @@
       <find>main.</find>
       <find>ui-slider-horizontal</find>
       <find>--app-primary-color</find>
+      <find>dropd</find>
+      <find>my-view3</find>
+      <find>favi</find>
+      <find>icon-1</find>
     </findStrings>
     <replaceStrings>
       <replace>1</replace>
       <replace>3</replace>
     </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -160,17 +219,19 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="894" />
+    <option name="x" value="373" />
     <option name="y" value="-1391" />
-    <option name="width" value="1421" />
+    <option name="width" value="1942" />
     <option name="height" value="955" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -186,7 +247,7 @@
             <path>
               <item name="polymer-case-study" type="b2602c69:ProjectViewProjectNode" />
               <item name="polymer-case-study" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="polymer-case-study" type="b2602c69:ProjectViewProjectNode" />
@@ -197,14 +258,13 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="shared&#9;FILE&#9;file:///Users/sf41e/IdeaProjects/workshop/polymer-case-study/src/shared-styles.js" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558191606359" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558450694470" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -215,18 +275,18 @@
     <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/assets" />
+    <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/images/assets" />
-      <recent name="$PROJECT_DIR$/images" />
+      <recent name="$PROJECT_DIR$/assets" />
+      <recent name="$PROJECT_DIR$/dist" />
       <recent name="$PROJECT_DIR$/src" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/dist" />
-      <recent name="$PROJECT_DIR$/assets" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/img" />
       <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/assets" />
+      <recent name="$PROJECT_DIR$/images/assets" />
+      <recent name="$PROJECT_DIR$/images" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -290,17 +350,18 @@
       <workItem from="1558006996557" duration="26265000" />
       <workItem from="1558170819977" duration="8450000" />
       <workItem from="1558255844691" duration="2297000" />
-      <workItem from="1558336470544" duration="1680000" />
+      <workItem from="1558336470544" duration="1938000" />
+      <workItem from="1558437465192" duration="5390000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38692000" />
+    <option name="totallyTimeSpent" value="44340000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="894" y="-1391" width="1421" height="955" extended-state="0" />
+    <frame x="373" y="-1391" width="1942" height="955" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18201596" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13368422" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -308,14 +369,14 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32871974" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32792583" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39981532" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.1529548" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.35225955" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -384,15 +445,8 @@
     <entry file="file://$PROJECT_DIR$/assets/jquery.js" />
     <entry file="file://$PROJECT_DIR$/src/shared-styles.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
+        <state>
           <caret line="12" column="56" selection-start-line="12" selection-start-column="56" selection-end-line="12" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1260">
-          <caret line="84" column="148" selection-start-line="84" selection-end-line="85" />
         </state>
       </provider>
     </entry>
@@ -417,10 +471,45 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/my-view3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#534#609#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/my-icons.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="28" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/logo.82b9c7a5.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/logo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/favicon.ico">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="92" column="30" selection-start-line="92" selection-start-column="30" selection-end-line="92" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/my-app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="563">
-          <caret line="69" column="28" lean-forward="true" selection-start-line="69" selection-start-column="28" selection-end-line="69" selection-end-column="28" />
+        <state relative-caret-position="272">
+          <caret line="172" column="62" selection-start-line="172" selection-start-column="62" selection-end-line="172" selection-end-column="62" />
           <folding>
             <element signature="e#534#609#0" expanded="true" />
           </folding>
